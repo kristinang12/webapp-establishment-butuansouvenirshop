@@ -513,28 +513,30 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Madyaw Kadyaw Souvenir Shoppe, Butuan City, Agusan Del Norte 8600, Philippines</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>Madyawkadyaw@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>09123456789</p>
               </div>
 
-              <div class="mapouter">
-               <div class="gmap_canvas">
-                <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Antongalon%20Butuan%20City%20Agusan%20Del%20Norte%20Philippines&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-                  <br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>
-                  <a href="https://www.embedgooglemap.net">google map link for website</a>
-                  <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
-                </div>
+             <div class="mapouter">
+                 <div class="gmap_canvas">
+                    <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Madyaw%20Kadyaw%20Souvenir%20Shoppe,%20Butuan%20City,%20Agusan%20Del%20Norte%208600,%20Philippines&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                        <a href="https://123movies-to.org">123movies</a>
+                        <br>
+                        <style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>
+                          <a href="https://www.embedgooglemap.net">google maps on my web site</a>
+                              <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+                  </div>
               </div>
 
             </div>
@@ -584,12 +586,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
+              <h3>Madyaw Kadyaw<span>.</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                 <br>
+                Madyaw Kadyaw Souvenir Shoppe, Butuan City, Agusan Del Norte 8600, Philippines<br><br>
+                <strong>Phone:</strong> 09123456789<br>
+                <strong>Email:</strong> Madyawkadyaw@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -616,7 +618,7 @@
         </div>
       </div>
     </div>
-    
+
   </footer><!-- End Footer -->
 
 
