@@ -32,11 +32,13 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+       
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+      <a href="/" class="get-started-btn scrollto">Get Started</a>
+      <a href="/login" class="button btn btn-info">Login </a>
 
     </div>
   </header><!-- End Header -->

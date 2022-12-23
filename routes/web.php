@@ -14,3 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [PagesController::class, 'index']);
+Route::get('/login', [PagesController::class, 'login']);
+Route::get('/dashboard', [PagesController::class, 'dashboard']);

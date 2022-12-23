@@ -8,7 +8,7 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-          <h1>Madyaw Kadyaw<span>.</span></h1>
+          <h1>Madyaw Kadyaw Souvenir Shoppe<span>.</span></h1>
           <h2>"Ato ini, kadyawon ta"</h2>
         </div>
       </div>
@@ -60,19 +60,17 @@
             <img src="assets-homepage/assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Madyaw Kadyaw Souvenir Shoppe</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+                Madyaw Kadyaw Souvenir Shop is a collection of local product, native designs, clothing product which those Manobo Agusan costume and many collections of souvenir.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="ri-check-double-line"></i>Local Product.</li>
+              <li><i class="ri-check-double-line"></i>Souvenirs, delicacies and Pasalubong</li>
+            
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+             Aside from Local Products, souvenirs, delicacies and Pasalubong,  we have manobo costume and accessories also tokens and leis tha you  can buy.
             </p>
           </div>
         </div>
@@ -105,28 +103,19 @@
     <section id="features" class="features">
       <div class="container" data-aos="fade-up">
 
-        <div class="row">
+        <div class="row ">
           <div class="image col-lg-6" style='background-image: url("assets-homepage/assets/img/features.jpg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+          <div class="col-lg-6 d-flex align-content-start flex-wrap" data-aos="fade-left" data-aos-delay="100">
+            <div class="icon-box mt-5 mt-lg-0 " data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>Madyaw Kadyaw Cafe</h4>
+              <p>We would like to thank Madyaw Kadyaw Souvenir Shoppe and Madyaw Kadyaw Café as two of our official sponsors in realizing the Magmugna Ta project.
+                 If you are looking for local products, souvenirs, delicacies and pasalubong, manobo costume and accessories, tokens and leis, you can visit Madyaw Kadyaw at Ochoa, T. Calo, P-3 Brgy. Limaja, Butuan City, Caraga, Philippines. You can check our Facebook page for their sample products.
+              And if you are looking for a place where you can relax with your friends, have some coffee, and just enjoy the good food, Madyaw Kadyaw Cafe is a must try space! They are also open for bookings and orders. You can find their area inside the Madyaw Kadyaw Souvenir Shoppe. Don't miss their opening on November 8, 2022!
+              From the Ka Bandera and the National Commission for Culture and the Arts (NCCA), daghang salamat sa inyong tanan!
+—————
+              𝘔𝘢𝘨𝘮𝘶𝘨𝘯𝘢 𝘛𝘢 by Ka Bandera is a project under the NCCA Program on Advancing the Value of Creative Excellence: 𝘗𝘢𝘨𝘬𝘢𝘮𝘢𝘭𝘪𝘬𝘩𝘢𝘪𝘯. The NCCA recognizes the true worth of the project as a contributory to the development of Philippine culture and arts and has seen it fit, proper and convenient to adopt the same for its own purposes.</p>
             </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
             </div>
           </div>
         </div>
@@ -223,9 +212,10 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">Manobo Necklace</li>
+              <li data-filter=".filter-card">Lies</li>
+              <li data-filter=".filter-web">Bags</li>
+              <li data-filter=".filter-web">Clothing</li>
             </ul>
           </div>
         </div>
@@ -425,11 +415,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets-homepage/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h3>Department of Tourism</h3>
+                <h4>Region &amp; Caraga 13</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Our DOT CARAGA Regional Director Marienela RA promoting the event of PHILIPPINES TRIBAL WEARS AND TAPESTRIES Habi at Burdang Katutubo on Oct. 22-23, 2021 to be held in Baguio City
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -438,11 +428,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets-homepage/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <h3>Art Jey Janaral Aquino</h3>
+                <h4>Philippine Army</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Have quality products for soveniers
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -451,11 +441,12 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets-homepage/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <h3>Louie Jay De la Cerna Losaria</h3>
+                <h4>Buyer of Manobo Clothing</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  He makes all things beautiful in His time. -Ecc 3:11
+                  Glory to God! Thank you Madyaw Kadyaw Souvenir Shoppe for my Manobo clothing.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -464,11 +455,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets-homepage/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <h3>Lorijane Decamotan Sacote</h3>
+                <h4>PD, DTI Agusan Del Norte</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  What a mouthful! But, this intricately designed accessory will surely remind you of the warm sunsets in Agusan del Norte with its dangling seashells and cozy fabric.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -477,11 +468,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets-homepage/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <h3>Delven Ganas Oraiz</h3>
+                <h4>Visitor</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  "The joy of the Lord is my strength. May the Lord  continue to bless u in all aspect of your life. #DoneVisitation @Madyaw Kadyaw Souvenir Shoppe
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -513,7 +504,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Madyaw Kadyaw Souvenir Shoppe, Butuan City, Agusan Del Norte 8600, Philippines</p>
+                <p>Ochoa, T. Calo, Purok 3, Barangay Limaja, Butuan City, Agusan Del Norte 8600, Philippines</p>
               </div>
 
               <div class="email">
@@ -586,12 +577,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Madyaw Kadyaw<span>.</span></h3>
+              <h3>Madyaw Kadyaw Souvenir Shoppe<span>.</span></h3>
               <p>
                  <br>
                 Madyaw Kadyaw Souvenir Shoppe, Butuan City, Agusan Del Norte 8600, Philippines<br><br>
-                <strong>Phone:</strong> 09123456789<br>
-                <strong>Email:</strong> Madyawkadyaw@gmail.com<br>
+                <strong>Phone:</strong> 09129936256<br>
+                <strong>Email:</strong> Madyawkadyawsouvenirshoppe@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
